@@ -24,4 +24,10 @@ A modern, responsive e-commerce website built with HTML, CSS, and JavaScript —
 
 ## Desktop View
 
+https://github.com/Taniya170104/frwds-shop/blob/main/frwds-shop.png
+
+## 👩‍💻 Author
+**Taniya Sharma**  
+📧 taniyavats17@gmail.com
+🔗 LinkedIn  http://www.linkedin.com/in/taniya-sharma-a1701t079
 
